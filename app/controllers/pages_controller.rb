@@ -7,4 +7,6 @@ class PagesController < ApplicationController
 
   def day0001
   end
+  def day0002
+  end
 end
